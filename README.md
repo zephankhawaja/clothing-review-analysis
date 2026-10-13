@@ -6,13 +6,13 @@ What are the common complaints in bad reviews on an online clothing store? I use
 
 **Power BI**
 
-[Power BI file](clothing_review_dashboard.pbix)
+[View file](clothing_review_dashboard.pbix)
 
 ![Power BI Dashboard](clothing_review_dashboard.png)
 
 **Google Sheets**
 
-[Google Sheets file](https://docs.google.com/spreadsheets/d/1bJFrMr7xxGVRH-3CAEHQSVkY3ScJIu_n8PR3xwkEYrY/edit?usp=sharing)
+[View file](https://docs.google.com/spreadsheets/d/1bJFrMr7xxGVRH-3CAEHQSVkY3ScJIu_n8PR3xwkEYrY/edit?usp=sharing)
 
 ![Google Sheets Dashboard](dashboard.png)
 
